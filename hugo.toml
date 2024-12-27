@@ -1,5 +1,6 @@
 baseURL = "http://jisai.uk/"
 title = "jisai"
+theme = "lynx"
 
 # lynx theme config
 languageCode = "en"
@@ -24,6 +25,3 @@ links = [
 [module.hugoVersion]
 extended = false
 min = "0.86.1"
-
-[[module.imports]]
-path = "github.com/jpanther/lynx"
