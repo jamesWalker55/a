@@ -20,7 +20,6 @@ links = [
     { spotify = "https://open.spotify.com/artist/3Vtew6bb136AMeOn6H5SLb" },
     { bluesky = "https://bsky.app/profile/jisai-w.bsky.social" },
     { bandcamp = "https://jisai.bandcamp.com" },
-    { discord = { href = "https://discord.gg/ttvRKepjCH", text = "Discord Server" } },
 ]
 
 [module.hugoVersion]
