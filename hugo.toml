@@ -8,6 +8,9 @@ defaultContentLanguage = "en"
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
+[params]
+attribution = false
+
 [params.author]
 name = "jisai"
 headline = "Composer/Arranger"
